@@ -1,0 +1,141 @@
+   0 pkg update
+   1 apt update
+   2 apk update
+   3 apk upgrade
+   4 apk update
+   5 apk upgrade
+   6 apk install python3
+   7 apk add python3
+   8 apk add neofetch
+   9 apk add proot-distro
+  10 apk search java
+  11 apk add apache2 php
+  12 apk add git
+  13 apk add github-cli openjdk11
+  14 apk add github-cli
+  15 apk add openjdk11
+  16 apk add open-jdk17
+  17 gh auth login
+  18 apk add openssh
+  19 gh
+  20 exit
+  21 git
+  22 apk add gh
+  23 apk add git-cli
+  24 gh
+  25 git
+  26 gh
+  27 git-cli
+  28 apk add git-cli
+  29 apk add github-cli
+  30 gh
+  31 gh auth login
+  32 clear
+  33 gh auth login
+  34 gh
+  35 gh auth login
+  36 git auth login
+  37 gh auth login
+  38 apk list
+  39 clear
+  40 apk add openssh
+  41 passwd
+  42 whoami
+  43 if config
+  44 git clone https://github.com/Lourainee/232968933_Manangan.git
+  45 git status
+  46 cd 232968933_Manangan
+  47 git status
+  48 nano lab.txt
+  49 apk add nano
+  50 nano lab.txt
+  51 apk add nano
+  52 nano lab.txt
+  53 cd 232968933_Manangan
+  54 nano lab.txt
+  55 git commit -m "git in termux"
+  56 git config --global user.email "angellourainemanangan@gmail.com"
+  57 git config --global user.name "Lourainee"
+  58 git commit -m "git in termux"
+  59 git add lab.txt
+  60 git commit -m "git in termux"
+  61 git push
+  62 ghp_zA1NpoA3rDxxBnVJ25kOWcpQDHSIS200G
+  63 git push
+  64 gh auth login
+  65 git clone https://github.com/Lourainee/232968933_Manangan.git
+  66 cd 232968933_Manangan
+  67 nano lab.txt
+  68 ls
+  69 git add lab.txt
+  70 git commit -m "git in termux"
+  71 git push 
+  72 cd 232968933_Manangan
+  73 ls
+  74 apk update
+  75 apk upgrade
+  76 cd 
+  77 uptime
+  78 clear
+  79 cd https://github.com/Lourainee/232968933_Manangan.git
+  80 cd 232968933_Manangan
+  81 cd ~
+  82 clear
+  83 gh auth login
+  84 dste
+  85 uptime
+  86 date
+  87 apk info
+  88 apk add jdk8
+  89 apk list-all
+  90 apk --help
+  91 apk list
+  92 clear
+  93 apk info
+  94 apk add openjdk
+  95 apk add openjdk8
+  96 cd 232968943_Manangan
+  97 clear
+  98 cd 232968933_Manangan
+  99 history -c
+ 100 touch linux_practice
+ 101 cd linux_practice
+ 102 cd ~
+ 103 clear
+ 104 cd 2329689433_Manangan
+ 105 clear
+ 106 cd 232968933_Manangan
+ 107 history -c
+ 108 mkdir -p linux_practice
+ 109 rm linux_practice
+ 110 mkdir -p linux_practice
+ 111 cd linux_practice
+ 112 touch notes.txt
+ 113 ls
+ 114 ls >> notes.txt
+ 115 cat notes.txt
+ 116 echo "Hello Linux!" 
+ 117 echo "This is practical exam" >> notes.txt
+ 118 head notes.txt
+ 119 tails notes.txt
+ 120 tail notes.txt
+ 121 mkdir -p subdir
+ 122 md notes.txt
+ 123 mv subdir/notes.txt_move
+ 124 mv notes.txt/notes.txt_move
+ 125 mv notes.txt ../notes_moved.txt
+ 126 mv subdir practice_subdir
+ 127 cp notes.txt copy_of_notes.txt
+ 128 mv notes.txt ../notes_moved.txt
+ 129 mv notes.txt subdir/
+ 130 mv notes.txt /practice_subdir
+ 131 cp practice_subdir/notes.txt .
+ 132 la
+ 133 ls
+ 134 apk info
+ 135 gh repo clone https://github.com/Lourainee/232968933_Manangan.git
+ 136 cd 232968933_Manangan
+ 137 cd ..
+ 138 git checkout -b finalexam
+ 139 hishory > exam_log.txt
+ 140 history > exam_log.txt
