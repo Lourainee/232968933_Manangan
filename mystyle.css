@@ -1,6 +1,9 @@
 body {
     font-family: monospace;
-    background-image: url(url(IMG/2024-css-snow-sleigh-animation-ezgif.com-video-to-gif-converter.gif));
+    background-image: url(IMG/snow.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 h1, h2 {
     text-align: center;
