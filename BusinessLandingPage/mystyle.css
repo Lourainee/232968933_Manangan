@@ -1,1 +1,64 @@
-i 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f3e9;
+    color: #333;
+    text-align: center;
+}
+
+.hero {
+    background: url('coffee-bg.jpg') no-repeat center center/cover;
+    color: rgb(240, 165, 15);
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.btn {
+    background: #a0522d;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.about, .menu, .testimonials, .contact {
+    padding: 50px 20px;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.item {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    width: 200px;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.contact {
+    background: #a0522d;
+    color: white;
+    padding: 30px 20px;
+}
+
