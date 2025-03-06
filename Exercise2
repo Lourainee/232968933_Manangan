@@ -1,0 +1,21 @@
+//Exercise 2: Conditional Statements
+
+<?php
+$number = 10;
+
+if ($number % 2 == 0) {
+echo "$number is Even.<br>";
+} else {
+echo "$number is Odd.<br>";
+}
+?>
+
+<?php
+if ($number > 0) {
+echo "$number is Positive.<br>";
+} elseif ($number < 0) {
+echo "$number is Negative.<br>";
+} else {
+echo "$number is Zero.<br>";
+}
+?>

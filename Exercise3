@@ -1,0 +1,19 @@
+//Exercise 3: Loops
+
+<?php
+$first = 0;
+$second = 1;
+
+echo "Even Fibonacci Numbers: <br>";
+
+for ($i = 0; $i < 10; $i++) {
+$next = $first + $second;
+$first = $second;
+$second = $next;
+
+// Print only even numbers
+if ($next % 2 == 0) {
+echo "$next <br>";
+}
+}
+?>
